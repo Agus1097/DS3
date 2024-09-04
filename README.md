@@ -1,4 +1,10 @@
-Comenzamos a estudiar JPA y la implementación con Hibernate. (Proyecto de base )
-1- Descargar el proyecto
-2- Abrir en Intelligent Idea Community
-3 - Este Proyecto utiliza gradle y la base de dato H2 en memoria para simplificar
+# Proyecto: TP N°1 HTML
+
+Este proyecto incluye un carpeta que puedes ejecutar en Intellij IDEA para ejecutar el contenido.
+Utiliza java 17, gradle y base de datos H2.
+
+## Requisitos
+
+- Descargar el archivo como .zip
+- Descomprimirlo
+- Abrir en Intellij Idea y ejecutarlo.
