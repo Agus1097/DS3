@@ -1,4 +1,4 @@
-# Proyecto: TP N°1 HTML
+# Proyecto: TP N°3 JPA
 
 Este proyecto incluye un carpeta que puedes ejecutar en Intellij IDEA para ejecutar el contenido.
 Utiliza java 17, gradle y base de datos H2.
