@@ -11,6 +11,7 @@
         <class>org.example.Domicilio</class>
         <class>org.example.Factura</class>
         <properties>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
             <property name="javax.persistence.jdbc.driver" value="org.h2.Driver"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:h2:tcp://localhost/~/test"/>
             <property name="javax.persistence.jdbc.user" value="sa"/>
